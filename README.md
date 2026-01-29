@@ -99,3 +99,10 @@ faces/ → Registered face images
 face_model.yml → Trained model
 
 attendance.csv → Attendance log
+
+---
+
+## 🎥 Demo Video & Screenshots
+
+The working demo video and project screenshots are available inside the **demo/** folder of this repository.
+

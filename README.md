@@ -106,3 +106,13 @@ attendance.csv → Attendance log
 
 The working demo video and project screenshots are available inside the **demo/** folder of this repository.
 
+---
+
+## 🚀 Single Entry Point
+
+Instead of running all scripts separately, you can directly run the dashboard:
+
+```bash
+streamlit run dashboard.py
+```
+

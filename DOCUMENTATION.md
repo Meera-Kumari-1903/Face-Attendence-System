@@ -132,6 +132,22 @@ View Dashboard
 streamlit run dashboard.py
 ```
 
+---
+
+## 🎥 Demo Video & Screenshots
+
+The working demo video and project screenshots are available inside the **demo/** folder of this repository.
+
+---
+
+## 🚀 Single Entry Point
+
+Instead of running all scripts separately, you can directly run the dashboard:
+
+```bash
+streamlit run dashboard.py
+```
+
 Author
 
 Meera Kumari

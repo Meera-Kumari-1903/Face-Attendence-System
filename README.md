@@ -102,9 +102,15 @@ attendance.csv → Attendance log
 
 ---
 
-## 🎥 Demo Video & Screenshots
+## 🎥 Demo Video
 
-The working demo video and project screenshots are available inside the **demo/** folder of this repository.
+The demo video is available in GitHub Releases and Google Drive:
+
+👉 Download here:
+
+[Github Releases](https://github.com/Meera-Kumari-1903/Face-Attendence-System/releases/tag/v1.0)
+
+[From Google Drive](https://drive.google.com/file/d/1gRuNHhiMWipB8S06w2DisyhiBYXBlNg4/view?usp=sharing)
 
 ---
 

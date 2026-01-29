@@ -246,7 +246,7 @@ if option == "Register User":
 
     st.info("📌 Camera Keys: Press C to Capture Face | ESC to Exit")
 
-    if st.button("📸 Register User (Auto Train)"):
+    if st.button("📸 Register User"):
         if name.strip() == "":
             st.warning("Enter a valid name!")
         else:
@@ -291,3 +291,4 @@ elif option == "View Logs":
 
     df = pd.read_csv("attendance.csv")
     st.dataframe(df, width="stretch")
+
